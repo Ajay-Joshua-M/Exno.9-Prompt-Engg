@@ -18,7 +18,7 @@ To explore and understand various prompting techniques used for generating and m
 A filmmaker is developing a short interactive science fiction anthology and wants to experiment with AI-generated sequences to visualize futuristic worlds, emotional arcs, and abstract dream scenes using only natural language prompts.
 
 # Prompting Techniques and Experiments:
-1. Simple Prompt
+# 1. Simple Prompt
 Prompt:
 "A spaceship flying through a starry sky."
 Observation:
@@ -26,7 +26,7 @@ Observation:
 •	Often lacks emotion or cinematic finesse.
 •	Best handled by Runway Gen-2 and Make-A-Video.
 
-2. Detailed Prompt
+# 2. Detailed Prompt
 Prompt:
 "A silver spaceship with glowing blue thrusters gliding through a vast starfield. The scene captures reflections on the hull and twinkling stars in the background with a slow pan shot."
 Observation:
@@ -34,21 +34,21 @@ Observation:
 •	Models like Imagen Video produced high-resolution coherent scenes.
 •	Better alignment with professional aesthetics.
 
-3. Stylistic Prompt
+# 3. Stylistic Prompt
 Prompt:
 "A futuristic dream-like scene of a neon city at night, animated in the style of Blade Runner with rain, fog, and slow-motion traffic."
 Observation:
 •	Make-A-Video and Imagen Video responded with visually compelling, color-graded cinematic results.
 •	Applied genre-based mood effectively.
 
-4. Iterative Refinement Prompt
+# 4. Iterative Refinement Prompt
 Initial Prompt: "A robot walking down a hallway."
 Refined Prompt: "A humanoid robot with red glowing eyes walking slowly through a dimly lit metallic corridor, with ambient electronic hum and steam jets shooting from floor vents."
 Observation:
 •	Refinement significantly improved environmental immersion and emotional tone.
 •	Video length and pacing improved with iteration.
 
-5. Hybrid Prompt (Text + Image)
+# 5. Hybrid Prompt (Text + Image)
 Prompt:
 Text: "A peaceful lakeside at dawn with early morning mist."
 Image: Photo of a misty lake from Unsplash.
@@ -63,20 +63,13 @@ Effect:
 •	Models with temporal control (Imagen Video) handled scene transitions effectively.
 •	Added emotional impact and pacing.
 
-Code Example:
+# Code Example:
 
+![image alt](https://github.com/Ajay-Joshua-M/Exno.9-Prompt-Engg/blob/6576d8b69ebbb4a6202b30149990c76a3b5f5f93/IMAGES/Screenshot%202025-05-26%20124411.png)
 
+# Prompt Comparison Table:
 
-
-
-
-
-
-
-
-
-
-Prompt Comparison Table:
+![image alt](https://github.com/Ajay-Joshua-M/Exno.9-Prompt-Engg/blob/6576d8b69ebbb4a6202b30149990c76a3b5f5f93/IMAGES/Screenshot%202025-05-26%20124441.png)
 
 
 # Conclusion:
